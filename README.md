@@ -9,3 +9,8 @@
 - GAN
     - DCGAN
 
+
+### PART 2 : NLP 트랜스포머
+- RCC
+- LSTM
+- Transformer

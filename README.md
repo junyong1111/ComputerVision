@@ -11,6 +11,9 @@
 
 
 ### PART 2 : NLP 트랜스포머
-- RCC
+- RNN
 - LSTM
 - Transformer
+
+### PART 3 : NeRF
+- NeRF

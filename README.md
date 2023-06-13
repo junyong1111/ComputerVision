@@ -1,4 +1,4 @@
-# ComputerVision
+# VisualComputing
 비주얼컴퓨팅최신기술
 
 ### PART 1 : 생성 모델 

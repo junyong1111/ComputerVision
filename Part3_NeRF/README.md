@@ -1,4 +1,4 @@
-# PART2 Transformer
+# PART3 NrRF
 
 ## NeRF
 

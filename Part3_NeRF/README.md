@@ -1,4 +1,4 @@
-# PART3 NrRF
+# PART3 NeRF
 
 ## NeRF
 
